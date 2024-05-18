@@ -21,7 +21,7 @@ Graphics Library: JavaFX
 Mathematical Tools: Rotation Matrix for handling 3D rotations
 
 **Contributors**
-Feisal Kiiru(myself)
+Feisal Kiiru
 David Kairu
 Andrew Kim
 Nikolai Dammholz
